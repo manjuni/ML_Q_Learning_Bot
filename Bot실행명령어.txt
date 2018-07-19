@@ -1,0 +1,1 @@
+java -cp ./´ëÀüº¿.jar;./bwmirror_v2_5.jar Main
